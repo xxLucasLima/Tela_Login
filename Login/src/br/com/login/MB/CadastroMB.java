@@ -1,9 +1,10 @@
-package br.com.login.dao;
+package br.com.login.MB;
 
 
 import javax.faces.bean.ManagedBean;
 import javax.faces.view.ViewScoped;
 
+import br.com.login.dao.CadastroDAO;
 import br.com.login.domain.Cadastro;
 import br.com.login.util.FacesUtil;
 
